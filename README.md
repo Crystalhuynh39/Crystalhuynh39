@@ -1,8 +1,8 @@
 👋 Hi, I’m Crystal Huynh!
 
-I graduated from UCLA with a major in Economics and a minor in Digital Humanities in 2022. Currently, I’m trying to break into the product scene. Wish me luck!
+I graduated from UCLA with a major in Economics and a minor in Digital Humanities in 2022.
 
-:computer: [Check out my website here to learn more about me and my work](https://crystalhuynh.webflow.io/)
+:computer: [Check out my website here to learn more about me and my work](https://crystalhuynh.framer.ai/)
 
 --
 
